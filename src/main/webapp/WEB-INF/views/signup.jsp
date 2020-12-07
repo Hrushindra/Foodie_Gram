@@ -17,6 +17,7 @@
 			<tr><td><input type="text" name="state"></td></tr>
 			<tr><td><input type="text" name="city"></td></tr>
 			<tr><td><input type="submit" value="SignUp"></td></tr>
+			
 		</table>
 	</form>
 </body>

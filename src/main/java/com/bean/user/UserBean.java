@@ -3,6 +3,7 @@ package com.bean.user;
 import java.util.Date;
 
 public class UserBean {
+	//properties of user
 	private int userId;
 	private String foodieId;
 	private String userName;
